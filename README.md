@@ -28,5 +28,3 @@
 3. App fetches real-time exchange rates via API.
 4. The converted value is shown instantly.
 
-## 📂 Project Structure
-
